@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742428460643",
+    "project_id": "currency-9f29c",
+    "storage_bucket": "currency-9f29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742428460643:android:3f3f0ebbeacbea4d1e5a56",
+        "android_client_info": {
+          "package_name": "com.example.biletinial_doviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742428460643-mvorit5mk5cauvee3u62g9v16ilp2sli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biletinial_doviz",
+            "certificate_hash": "6da3b51e8cafb37b7c42ff82e46efa6ac58f6cca"
+          }
+        },
+        {
+          "client_id": "742428460643-98tp7319v7lkslbqcdlaflqp2a2478fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDZhq0z9QP_KU4oOXVuOK2PwwTe2utb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742428460643-98tp7319v7lkslbqcdlaflqp2a2478fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
